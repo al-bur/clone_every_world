@@ -1,2 +1,7 @@
-# clone_every_world
-I am trying to clone every website in the world :) do it!
+# 모든 사이트를 클론해보자!!
+
+### 목적
+
+- 여러 종류의 웹사이트들을 구현해보면서 만날 수 있는 여러 문제들을 해결해보면서 구현하기 위해
+- 여러 유형 + 한 번도 구현해보지 못한 기능들을 다른 웹 사이트들을 clone 하면서 구현해보기 위해
+
